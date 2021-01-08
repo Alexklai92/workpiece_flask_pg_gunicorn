@@ -1,5 +1,5 @@
 # workpiece_flask_pg_gunicorn
-installation and deployment flask gunicorn pg-12
+Centos 7: installation and deployment flask gunicorn pg-12 
 
 ## Usage:
 
