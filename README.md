@@ -11,3 +11,9 @@ if not installed git ```#: yum -y install git```
 #: cd your_app_name
 #: ./install.sh 
 ```
+
+if you have your own requirements.txt
+before running the script:
+```shell
+#: cp /path/your/requirements.txt /path_to/your_app_name/
+```
